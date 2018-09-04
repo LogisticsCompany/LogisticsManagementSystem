@@ -6,6 +6,7 @@ html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
 }
+
 /* 内外边距通常让各个浏览器样式的表现位置不同 */
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
     margin: 0;
@@ -13,14 +14,16 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fiel
     list-style: none;
     font-family: 'Microsoft Yahei';
 }
+
 /*定义字体*/
 body, button, input, select, textarea {
-    font: 12px/1.5 'Microsoft Yahei',Arial,Verdana,tahoma,Helvetica,sans-serif;
+    font: 12px/1.5 'Microsoft Yahei', Arial, Verdana, tahoma, Helvetica, sans-serif;
 }
 
 input, select, textarea {
     font-size: 100%;
 }
+
 /* 重设 HTML5 标签, IE 需要在 js 中 createElement(TAG) */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
     display: block;
@@ -29,25 +32,30 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 a, input {
     outline: none;
 }
+
 /* HTML5 媒体文件跟 img 保持一致 */
 audio, canvas, video {
     display: inline-block;
     *display: inline;
     *zoom: 1;
 }
+
 /* 去掉各Table  cell 的边距并让其边重合 */
 table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
 /* IE bug fixed: th 不继承 text-align*/
 th {
     text-align: inherit;
 }
+
 /* 去除默认边框 */
 fieldset, img {
     border: 0;
 }
+
 /* ie6 7 8(q) bug 显示为行内表现 */
 iframe {
     display: block;
@@ -97,6 +105,7 @@ q:before, q:after {
 select {
     vertical-align: middle;
 }
+
 /* 统一上标和下标 */
 sub, sup {
     font-size: 75%;
@@ -112,6 +121,7 @@ sup {
 sub {
     bottom: -0.25em;
 }
+
 /* 清理浮动 */
 .clear {
     clear: both;
@@ -134,9 +144,10 @@ sub {
 .clearfix {
     zoom: 1;
 }
+
 /* for IE6 IE7 */
 /* 设置空白高度 */
-.blank6, .blank, .blank15, .blank20, .blank30, .blank50, .blank100, {
+.blank6, .blank, .blank15, .blank20, .blank30, .blank50, .blank100 {
     clear: both;
     display: block;
     overflow: hidden;
@@ -169,10 +180,12 @@ sub {
 .blank100 {
     height: 100px;
 }
+
 /* 左浮动 */
 .left {
     float: left;
 }
+
 /* 右浮动 */
 .right {
     float: right;
@@ -182,47 +195,57 @@ sub {
 .f14 {
     font-size: 14px; /*大小*/
 }
+
 /*16号字*/
 .f16 {
     font-size: 16px; /*大小*/
 }
+
 /*18号字*/
 .f18 {
     font-size: 18px; /*大小*/
 }
+
 /*20号字*/
 .f20 {
     font-size: 20px; /*大小*/
 }
+
 /*链接根据页面要求全局自定义*/
 /*链接*/
 a:link {
     text-decoration: none; /*下划线*/
     color: #000000; /*颜色*/
 }
+
 /*被访问过链接*/
 a:visited {
     text-decoration: none; /*下划线*/
     color: #000000; /*颜色*/
 }
+
 /*鼠标经过*/
 a:hover {
     text-decoration: none; /*下划线*/
     color: #643b05; /*颜色*/
 }
+
 /*链接被按下*/
 a:active {
     text-decoration: none; /*下划线*/
     color: #643b05; /*颜色*/
 }
+
 /*链接橙色*/
 a.orange {
     color: #8e5f07; /*颜色*/
 }
+
 /*链接灰色*/
 a.gray {
     color: #6d6d6d; /*颜色*/
 }
+
 /*开灯关灯效果*/
 .turnoff {
     display: block;
