@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wlxxxt"
+  id="myeclipse.1394843750042"
+  context-root="/wlxxxt"
+  j2ee-spec="5.0"
+  archive="wlxxxt.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
