@@ -7,39 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad3d7ae7-5e9a-4c25-a5a5-297cd128f33a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/js/bootstrap/3.3.6/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/js/bootstrap/3.3.6/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/js/bootstrap/3.3.6/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/bootstrap/js/jquery/2.0.0/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebRoot/css/bootstrap_extend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebRoot/admin/index1.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/Styles/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/Styles/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebRoot/Styles/admin-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/Styles/admin-all.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebRoot/admin/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/admin/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/admin/sysPro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/admin/sysPro.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/images/top.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/images/top.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/inc/foot.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/inc/foot.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/inc/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/inc/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/mydan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/mydan.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebRoot/newdan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebRoot/newdan.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/inc/foot.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/inc/foot.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/inc/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/inc/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/mydan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/mydan.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/newdan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/newdan.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/Styles/admin-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/Styles/admin-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/admin/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/wlxxxt_war_exploded/admin/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/biyeseng/action/LoginAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/biyeseng/action/LoginAction.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,15 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebRoot/admin/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="116" column="120" selection-start-line="116" selection-start-column="120" selection-end-line="116" selection-end-column="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sysPro.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebRoot/admin/sysPro.jsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,7 +40,7 @@
       <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebRoot/Styles/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="185">
               <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
             </state>
           </provider>
@@ -90,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newdan.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newdan.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebRoot/newdan.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="93" column="94" selection-start-line="93" selection-start-column="94" selection-end-line="93" selection-end-column="94" />
+            <state relative-caret-position="-675">
+              <caret line="98" column="50" lean-forward="true" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -102,17 +67,39 @@
       <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+            <state relative-caret-position="150">
+              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebRoot/Styles/login.css">
+      <file leaf-file-name="LoginAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/biyeseng/action/LoginAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="205">
+              <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebRoot/admin/index1.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="145" column="21" lean-forward="true" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/admin/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="39" column="107" selection-start-line="39" selection-start-column="107" selection-end-line="39" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -123,6 +110,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -152,8 +140,11 @@
         <option value="$PROJECT_DIR$/WebRoot/inc/top.jsp" />
         <option value="$PROJECT_DIR$/WebRoot/Styles/base.css" />
         <option value="$PROJECT_DIR$/WebRoot/login.jsp" />
-        <option value="$PROJECT_DIR$/WebRoot/admin/index.jsp" />
         <option value="$PROJECT_DIR$/WebRoot/admin/sysPro.jsp" />
+        <option value="$PROJECT_DIR$/WebRoot/admin/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/biyeseng/action/LoginAction.java" />
+        <option value="$PROJECT_DIR$/WebRoot/Styles/admin-all.css" />
+        <option value="$PROJECT_DIR$/WebRoot/admin/index1.jsp" />
       </list>
     </option>
   </component>
@@ -173,7 +164,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -439,15 +430,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535982338909</updated>
-      <workItem from="1535982343448" duration="21038000" />
+      <workItem from="1535982343448" duration="29036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21038000" />
+    <option name="totallyTimeSpent" value="29036000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -471,7 +462,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32561985" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
       <window_info anchor="right" id="Theme Preview" />
@@ -660,37 +651,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebRoot/img/top-menu-bg-left.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/Styles/admin-all.css">
+    <entry file="file://$PROJECT_DIR$/WebRoot/inc/top.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="179" column="6" selection-start-line="179" selection-start-column="6" selection-end-line="179" selection-end-column="6" />
+        <state relative-caret-position="125">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/Styles/base.css">
+    <entry file="file://$PROJECT_DIR$/WebRoot/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/admin/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/biyeseng/action/LoginAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="116" column="120" selection-start-line="116" selection-start-column="120" selection-end-line="116" selection-end-column="120" />
+        <state relative-caret-position="205">
+          <caret line="51" column="54" lean-forward="true" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3193">
+          <caret line="253" column="21" lean-forward="true" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -704,17 +692,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/inc/top.jsp">
+    <entry file="file://$PROJECT_DIR$/WebRoot/Styles/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="185">
+          <caret line="184" column="1" selection-start-line="184" selection-start-column="1" selection-end-line="184" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/bootstrap/css/bootstrap/3.3.6/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="4" column="18434" selection-start-line="4" selection-start-column="18434" selection-end-line="4" selection-end-column="18434" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebRoot/newdan.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="93" column="94" selection-start-line="93" selection-start-column="94" selection-end-line="93" selection-end-column="94" />
+        <state relative-caret-position="-675">
+          <caret line="98" column="50" lean-forward="true" selection-start-line="98" selection-start-column="50" selection-end-line="98" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="39" column="107" selection-start-line="39" selection-start-column="107" selection-end-line="39" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/Styles/admin-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="291" column="23" lean-forward="true" selection-start-line="291" selection-start-column="23" selection-end-line="291" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/admin/index1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="145" column="21" lean-forward="true" selection-start-line="145" selection-start-column="21" selection-end-line="145" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

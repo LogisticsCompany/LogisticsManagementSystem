@@ -15,10 +15,10 @@
     <script type = "text/javascript" src = "<%=path %>/Scripts/jquery-ui-1.8.22.custom.min.js"></script>
     <script type = "text/javascript" src = "<%=path %>/Scripts/index.js"></script>
 
-    <script src = "bootstrap/js/jquery/2.0.0/jquery.min.js"></script>
-    <link href = "bootstrap/css/bootstrap/3.3.6/bootstrap.min.css" rel = "stylesheet">
-    <script src = "bootstrap/js/bootstrap/3.3.6/bootstrap.min.js"></script>
-    <link href = "css/bootstrap_extend.css" rel = "stylesheet">
+    <script src = "<%=path %>/bootstrap/js/jquery/2.0.0/jquery.min.js"></script>
+    <link href = "<%=path %>/bootstrap/css/bootstrap/3.3.6/bootstrap.min.css" rel = "stylesheet">
+    <script src = "<%=path %>/bootstrap/js/bootstrap/3.3.6/bootstrap.min.js"></script>
+    <link href = "<%=path %>/css/bootstrap_extend.css" rel = "stylesheet">
 </head>
 <body>
 <div class = "warp">
